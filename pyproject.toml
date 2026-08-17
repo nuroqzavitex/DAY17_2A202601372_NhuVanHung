@@ -1,0 +1,21 @@
+[project]
+name = "day17-2a202601372-nhuvanhung"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-genai>=1.0,<2",
+    "langgraph>=1.2.5,<2",
+    "pydantic>=2.10,<3",
+    "pytest>=8.3,<9",
+    "python-dotenv>=1.0,<2",
+    "qdrant-client>=1.15,<2",
+    "redis>=6,<7",
+    "requests>=2.32,<3",
+    "rich>=13.9,<15",
+    "scikit-learn>=1.7,<2",
+    "streamlit>=1.48,<2",
+    "typer>=0.15,<1",
+    "zep-cloud>=3.23.0,<4",
+]

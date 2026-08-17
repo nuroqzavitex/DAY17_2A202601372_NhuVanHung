@@ -1,8 +1,10 @@
 .env
 .git
+.venv
 .pytest_cache
 __pycache__
 *.pyc
 reports/*.json
 reports/*.html
 reports/run.log
+
